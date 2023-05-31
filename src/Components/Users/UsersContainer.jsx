@@ -6,7 +6,7 @@ import {
     setUsers,
     setTotalUsersCount,
     toggleIsFetching,
-    unfollow   
+    unfollow    
 } from '../../Redux/users-reducer';
 import * as axios from 'axios';
 import Users from './Users';
